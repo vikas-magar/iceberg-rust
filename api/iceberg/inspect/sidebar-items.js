@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["MetadataTableType"],"struct":["HistoryTable","ManifestsTable","MetadataTable","MetadataTableTypeIter","SnapshotsTable"]};

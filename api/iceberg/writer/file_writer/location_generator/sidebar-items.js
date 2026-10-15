@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["DefaultFileNameGenerator","DefaultLocationGenerator","ObjectStorageLocationGenerator"],"trait":["FileNameGenerator","LocationGenerator"]};

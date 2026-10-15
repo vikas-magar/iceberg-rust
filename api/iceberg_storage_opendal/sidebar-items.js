@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["OPENDAL_IO_TIMEOUT_MS"],"enum":["OpenDalStorage","OpenDalStorageFactory"],"struct":["AwsCredential","CustomAwsCredentialLoader","OpenDalClientConfig","OpenDalResolvingStorage","OpenDalResolvingStorageFactory"],"trait":["ProvideCredential"]};
